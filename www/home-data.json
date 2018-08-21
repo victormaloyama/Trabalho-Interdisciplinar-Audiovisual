@@ -1,0 +1,12 @@
+[
+	{
+		"nome": "Pão com nozes",
+		"imagem": "img/pas.jpg",
+		"tipo": "Vegano"
+	},
+	{
+		"nome": "Pão com frutas",
+		"imagem": "img/pas.jpg",
+		"tipo": "Vegano"
+	}
+]
