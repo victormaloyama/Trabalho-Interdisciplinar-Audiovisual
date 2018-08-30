@@ -12,6 +12,5 @@ $(document).ready(function() {
 		}	
 		$("#receitas-conteudo").append(conteudo);
 	});
-	
 	xhr.send();
 });
