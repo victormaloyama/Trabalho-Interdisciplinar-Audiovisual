@@ -25,4 +25,8 @@
     </platform>
     <engine name="browser" spec="^5.0.4" />
     <engine name="android" spec="~7.0.0" />
+    <plugin name="cordova-plugin-statusbar" spec="*" />
+    <platform name="android">
+        <preference name="StatusBarBackgroundColor" value="#ffffff" />
+    </platform>
 </widget>
