@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Trabalho Quarto Semestre",
+  "short_name": "Trabalho Quarto Semestre",
+  "version": "org.victormaloyama.trablhoquartosemestre",
+  "description": "App para trabalho do interdisciplinar 4° semestre",
+  "author": "Victor Maloyama",
+  "icons": [],
+  "orientation": "portrait",
+  "start_url": "index.html"
+}

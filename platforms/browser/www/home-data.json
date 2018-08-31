@@ -1,0 +1,14 @@
+[
+	{
+		"nome": "Pão com nozes",
+		"imagem": "img/pas.jpg",
+		"tipo": "Vegano",
+		"diretorio": "onclick=window.location='http://google.com';"
+	},
+	{
+		"nome": "Pão com frutas",
+		"imagem": "img/pas.jpg",
+		"tipo": "Vegano",
+		"diretorio": "onclick=window.location='http://google.com';"
+	}
+]

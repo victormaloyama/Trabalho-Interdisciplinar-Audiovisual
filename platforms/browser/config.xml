@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="org.victormaloyama.trablhoquartosemestre" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Trabalho Quarto Semestre</name>
+    <description>
+        App para trabalho do interdisciplinar 4° semestre
+    </description>
+    <author email="victor.maloyama@gmail.com" href="http://cordova.io">
+        Victor Maloyama
+    </author>
+    <preference name="Orientation" value="portrait" />
+    <preference name="FullScreen" value="true" />
+</widget>
