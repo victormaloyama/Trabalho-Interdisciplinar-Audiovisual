@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "C:\\Users\\victo\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\victo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\9ff19fabe52f69998fd299fbb8bdc6f7\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "C:\\Users\\Victor Maloyama\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
             "map": [
                 {

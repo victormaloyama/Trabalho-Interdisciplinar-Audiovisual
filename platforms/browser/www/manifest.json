@@ -1,8 +1,8 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "Trabalho Quarto Semestre",
-  "short_name": "Trabalho Quarto Semestre",
+  "name": "Avocatto",
+  "short_name": "Avocatto",
   "version": "org.victormaloyama.trablhoquartosemestre",
   "description": "App para trabalho do interdisciplinar 4° semestre",
   "author": "Victor Maloyama",

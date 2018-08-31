@@ -2,7 +2,15 @@
   "cordova-plugin-whitelist": {
     "source": {
       "type": "registry",
-      "id": "cordova-plugin-whitelist@1"
+      "id": "https://github.com/apache/cordova-plugin-whitelist.git"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-statusbar": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/apache/cordova-plugin-statusbar.git"
     },
     "is_top_level": true,
     "variables": {}
@@ -11,14 +19,6 @@
     "source": {
       "type": "registry",
       "id": "phonegap-plugin-barcodescanner@8.0.0"
-    },
-    "is_top_level": true,
-    "variables": {}
-  },
-  "cordova-plugin-statusbar": {
-    "source": {
-      "type": "registry",
-      "id": "cordova-plugin-statusbar@^2.4.2"
     },
     "is_top_level": true,
     "variables": {}

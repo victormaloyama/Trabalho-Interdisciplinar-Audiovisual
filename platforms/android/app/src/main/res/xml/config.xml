@@ -11,15 +11,16 @@
     <feature name="BarcodeScanner">
         <param name="android-package" value="com.phonegap.plugins.barcodescanner.BarcodeScanner" />
     </feature>
-    <name>Trabalho Quarto Semestre</name>
+    <name>Avocatto</name>
     <description>
         App para trabalho do interdisciplinar 4° semestre
     </description>
     <author email="victor.maloyama@gmail.com" href="http://cordova.io">
         Victor Maloyama
     </author>
+    <allow-intent href="*" />
     <preference name="loglevel" value="DEBUG" />
     <preference name="Orientation" value="portrait" />
-    <preference name="FullScreen" value="true" />
-    <preference name="StatusBarBackgroundColor" value="#ffffff" />
+    <preference name="FullScreen" value="false" />
+    <preference name="StatusBarBackgroundColor" value="#d6d6d6" />
 </widget>
