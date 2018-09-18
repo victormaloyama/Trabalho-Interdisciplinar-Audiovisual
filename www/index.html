@@ -7,6 +7,7 @@
         
         <!-- build:css css/style.min.css-->
         <link rel="stylesheet" href="css/materialize.css">
+        <link rel="stylesheet" type="text/css" href="css/jquery.mobile.structure-1.4.5.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <!-- endbuild -->
         
@@ -15,7 +16,7 @@
     <body>
         <div class="app">
             <nav>
-                <button  class="btn-scanqrcode">a</button>
+                <button id="btnScanqrcode">a</button>
             </nav>
             <div id="receitas-conteudo">
                 <!-- Receitas aqui -->
@@ -24,7 +25,8 @@
 
         <script src="cordova.js"></script>
         <!-- build:js js/all.min.js-->
-        <script src="js/jquery.js"></script>
+        <script src="js/jquery-1.11.1.js"></script>
+        <script src="js/jquery.mobile-1.4.5.js"></script>
         <script src="js/materialize.js"></script>
         <script src="js/main.js"></script>
         <script src="js/requests.js"></script>

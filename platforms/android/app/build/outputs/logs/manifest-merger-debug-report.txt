@@ -115,7 +115,6 @@ ADDED from C:\Users\victo\Desktop\Trabalho-Interdisciplinar-Audiovisual\platform
 		ADDED from C:\Users\victo\Desktop\Trabalho-Interdisciplinar-Audiovisual\platforms\android\app\src\main\AndroidManifest.xml:13:41-109
 uses-sdk
 ADDED from C:\Users\victo\Desktop\Trabalho-Interdisciplinar-Audiovisual\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
-INJECTED from C:\Users\victo\Desktop\Trabalho-Interdisciplinar-Audiovisual\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
 MERGED from [:barcodescanner-release-2.1.5:] C:\Users\victo\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\177f1bebde59bbd360c2bc64e6f3cea0\AndroidManifest.xml:7:5-9:41
 MERGED from [:barcodescanner-release-2.1.5:] C:\Users\victo\.gradle\caches\transforms-1\files-1.1\barcodescanner-release-2.1.5.aar\177f1bebde59bbd360c2bc64e6f3cea0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-v4:27.1.1] C:\Users\victo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7f54ace2061fbac3ea1c42026dba6b94\AndroidManifest.xml:20:5-44
@@ -140,13 +139,10 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\victo\.gradle\cach
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\victo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\382b6ae0be1e47f60f8418f04eff4be7\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\victo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\34039b352fbd7b7cbc600d74b007734a\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\victo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\34039b352fbd7b7cbc600d74b007734a\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\victo\Desktop\Trabalho-Interdisciplinar-Audiovisual\platforms\android\app\src\main\AndroidManifest.xml:15:5-74
 	android:targetSdkVersion
 		ADDED from C:\Users\victo\Desktop\Trabalho-Interdisciplinar-Audiovisual\platforms\android\app\src\main\AndroidManifest.xml:15:42-71
 	android:minSdkVersion
 		ADDED from C:\Users\victo\Desktop\Trabalho-Interdisciplinar-Audiovisual\platforms\android\app\src\main\AndroidManifest.xml:15:15-41
-		INJECTED from C:\Users\victo\Desktop\Trabalho-Interdisciplinar-Audiovisual\platforms\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\victo\Desktop\Trabalho-Interdisciplinar-Audiovisual\platforms\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.CAMERA
 ADDED from C:\Users\victo\Desktop\Trabalho-Interdisciplinar-Audiovisual\platforms\android\app\src\main\AndroidManifest.xml:16:5-65
 	android:name

@@ -28,24 +28,24 @@
         "source": "C:\\Users\\victo\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\177f1bebde59bbd360c2bc64e6f3cea0\\res\\drawable-hdpi\\launcher_icon.png"
     },
     {
-        "merged": "C:\\Users\\Victor Maloyama\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "C:\\Users\\Victor Maloyama\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\e2567f7bcb6ed6b60f6028928daedd94\\res\\layout\\notification_template_big_media_narrow_custom.xml"
-    },
-    {
         "merged": "C:\\Users\\victo\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_book_contents_header.xml.flat",
         "source": "C:\\Users\\victo\\.gradle\\caches\\transforms-1\\files-1.1\\barcodescanner-release-2.1.5.aar\\177f1bebde59bbd360c2bc64e6f3cea0\\res\\layout\\search_book_contents_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor Maloyama\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Victor Maloyama\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\e2567f7bcb6ed6b60f6028928daedd94\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "C:\\Users\\victo\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
         "source": "C:\\Users\\victo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\794b84cd4c89d3373c8c9dd345c34d41\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\Victor Maloyama\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi_screen.png.flat",
-        "source": "C:\\Users\\Victor Maloyama\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
-    },
-    {
         "merged": "C:\\Users\\victo\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
         "source": "C:\\Users\\victo\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Victor Maloyama\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-port-ldpi_screen.png.flat",
+        "source": "C:\\Users\\Victor Maloyama\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\src\\main\\res\\drawable-port-ldpi\\screen.png"
     },
     {
         "merged": "C:\\Users\\Victor Maloyama\\Desktop\\Trabalho-Interdisciplinar-Audiovisual\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_list_item.xml.flat",
